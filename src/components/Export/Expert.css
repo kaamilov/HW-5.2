@@ -1,0 +1,41 @@
+.block1{
+    width: 150px;
+    height: 150px;
+    background-color: #FFFF00;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.block2{
+    width: 150px;
+    height: 150px;
+    background-color: #008000;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.block3{
+    width: 150px;
+    height: 150px;
+    background-color: #00FF00;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.block4{
+    width: 150px;
+    height: 150px;
+    background-color:#FF0000;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.button{
+    background-color: rgb(61, 205, 28);
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    margin: 20px ;
+    
+}
